@@ -1,4 +1,4 @@
-# Welcome Memory Game 🧠
+# Welcome to Memory Game 🧠
 Simple application. The cards turn over and you need to find a pair. <a href="https://memory-game-v01.herokuapp.com/">:link:Online demo link:link:</a>
 
 ![Demonstration of functionality](https://i.ibb.co/1qTzmnd/Peek-2021-09-06-00-08.gif)
