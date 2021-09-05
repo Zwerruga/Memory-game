@@ -7,10 +7,15 @@ html,
 body,
 .wrapper {
   width: 100%;
-  min-height: 100vh;
+  min-height: calc(54vw + 150px);
+  height: 100vh;
 }
 .wrapper {
   position: relative;
+  display: flex;
+  align-items: flex-start;
+
+  justify-content: center;
 }
 button {
   width: 100px;

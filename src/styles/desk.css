@@ -1,5 +1,5 @@
 .desk {
-  width: 100%;
+  width: calc(54vw + 60px);
   display: flex;
   align-items: center;
   justify-content: center;
