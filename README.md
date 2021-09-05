@@ -12,8 +12,6 @@ Simple application. The cards turn over and you need to find a pair. <a href="ht
  - Redux, react-redux
  - Using React Hooks<br/>
 `$ npm i && npm start`
-## 🔥Snapshots 👀
-
 ## 🔮 In Future ⏳
  - Add testing✨
  - Add more cards📑
